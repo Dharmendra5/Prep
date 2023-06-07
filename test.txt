@@ -1,0 +1,5 @@
+192.168.56.101
+adding new line
+
+Username	edureka
+Password	DevOps12
